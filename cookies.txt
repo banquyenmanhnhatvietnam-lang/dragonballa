@@ -1,0 +1,21 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.youtube.com	TRUE	/	FALSE	1999999999	__Secure-BUCKET	CKkE
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	GulSVjobsEc
+.x.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A177591849039638127
+.x.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A177591849039638127
+.x.com	TRUE	/	FALSE	1999999999	personalization_id	v1_O1aEzaXXeRDQPc45zoqBvQ=="
+.x.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A177591849039638127
+x.com	TRUE	/	FALSE	1999999999	SameSite	None
+x.com	TRUE	/	FALSE	1999999999	__cf_bm	vart.wpfr3BYChSGmOMczonuiAv2IxqOUeW66ywJSTY-1775918490.3074937-1.0.1.1-ueD3yLDTwsEKqWXUaeXPR66bYvxVIBE.TaJECxW4LdkCTe4FNrXWsw5yPGa7MfrTKnvQ3KY59vD9L0BliMHFviP8I2s1mRXN5iPkG1cHOxpeJ9xLMzEYyhJ0EQh0Lqnp
+.youtube.com	TRUE	/	FALSE	1999999999	__Secure-YNID	17.YT=WzNkxKCdJlVoN6ADITeqCNHyi5SLSs5FdS5qS7aZJxiPdp6-9cX_UKCdZ_6hErg-CXnw2AmeZTskym5hjXx6jgklmXixUGtAfFyz4-MBYTkHZX-17PY7lIgpsVvDc_Zfo1cUQ50xWL6-tjT5f7HuPmCkMmL4pnalAGEO3gFTbSHj_uveNzOCqq38DSQaRo-uWe1iQh6FqfaxGdlrmAXbh_jIK3Jzb8hgqrvale8FmCc9jmMj6eMXJwKmzKbH3H69cinPGf8_To7djNMT-JmKNwgbzNVEpp0Q92gkiuhla5w5P5U4xcSPUDihJQY9IdqWQWyAsYEYnFod6UAX9hiDqQ
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	MeEonp08mT0
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_PRIVACY_METADATA	CgJWThIEGgAgHA%3D%3D
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+youtube.com	TRUE	/	FALSE	1999999999	__Secure-ROLLOUT_TOKEN	COfw2u28j7KFJBCcp7Pwg-aTAxjlpM72g-aTAw%3D%3D
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+.facebook.com	TRUE	/	FALSE	1999999999	noscript	1
+facebook.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+www.facebook.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+
